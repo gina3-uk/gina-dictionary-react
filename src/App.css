@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  padding-top: 15px;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+  opacity: 50%;
+  font-size: 22px;
+  padding-bottom: 25px;
+}
+
+footer {
+  margin: 30px;
+  font-size: 12px;
+  opacity: 50%;
+}
