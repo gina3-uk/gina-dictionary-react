@@ -4,7 +4,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Dictionary</h1>
-      <p>Find meaning...</p>
+      <p>Find meaning... </p>
     </div>
   );
 }
