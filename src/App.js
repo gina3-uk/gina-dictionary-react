@@ -11,7 +11,15 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="text-center">
-          Open source code created by Gina Lewis
+          Open source code on{" "}
+          <a
+            href="https://github.com/gina3-uk/gina-dictionary-react"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>{" "}
+          created by Gina Lewis.
         </footer>
       </div>
     </div>
