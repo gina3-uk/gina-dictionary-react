@@ -4,7 +4,7 @@ import Dictionary from "./Dictionary.js";
 export default function App() {
   return (
     <div className="App">
-      <div className="container">
+      <div className="container glass">
         <h1>Dictionary</h1>
         <h2>Find meaning...</h2>
         <main>
