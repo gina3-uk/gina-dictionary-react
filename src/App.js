@@ -19,7 +19,15 @@ export default function App() {
           >
             GitHub
           </a>{" "}
-          created by Gina Lewis.
+          created by{" "}
+          <a
+            href="https://www.linkedin.com/in/gina-lewis-98a96476/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Gina Lewis
+          </a>
+          .
         </footer>
       </div>
     </div>
