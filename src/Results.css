@@ -1,3 +1,5 @@
 .searchedWord {
   font-family: "Orbitron", sans-serif;
+  font-size: 36px;
+  text-transform: capitalize;
 }

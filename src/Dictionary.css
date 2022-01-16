@@ -1,3 +1,28 @@
 .Dictionary {
   color: white;
 }
+
+.Dictionary section {
+  background-color: #ffffff10;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-radius: 4px;
+  margin-top: 15px;
+  padding: 5px;
+}
+
+.Dictionary input {
+  width: 100%;
+  margin: 3px 0px;
+  padding: 6px 4px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  color: #333;
+}
+
+.Dictionary .hint {
+  font-size: 11px;
+  font-family: "Bitter", serif;
+  opacity: 0.6;
+  padding-top: 2px;
+}

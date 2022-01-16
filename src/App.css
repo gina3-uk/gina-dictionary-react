@@ -7,8 +7,6 @@
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   max-width: 800px;
-  border: dashed;
-  border-width: 2px 4px;
   border-radius: 40px;
 }
 
@@ -22,6 +20,7 @@ h1 {
 }
 
 h2 {
+  font-family: "Bitter", serif;
   color: white;
   text-align: center;
   opacity: 50%;
@@ -30,6 +29,7 @@ h2 {
 }
 
 footer {
+  font-family: "Bitter", serif;
   color: white;
   margin: 30px;
   font-size: 12px;

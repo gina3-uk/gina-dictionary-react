@@ -8,7 +8,7 @@ export default function App() {
         <h1>Dictionary</h1>
         <h2>Find meaning...</h2>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="moon" />
         </main>
         <footer className="text-center">
           Open source code on{" "}
