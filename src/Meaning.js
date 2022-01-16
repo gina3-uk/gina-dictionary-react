@@ -5,9 +5,7 @@ import "./Meaning.css";
 export default function Meaning(props) {
   return (
     <div className="Meaning">
-      <h4 className="wordType">
-        <i>{props.meaning.partOfSpeech}</i>
-      </h4>
+      <h4 className="wordType">{props.meaning.partOfSpeech}</h4>
 
       {props.meaning.definitions.map(function (definition, index) {
         return (

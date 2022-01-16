@@ -2,6 +2,11 @@
   font-family: "Bitter", serif;
 }
 
+.wordType {
+  font-family: "Orbitron", sans-serif;
+  font-weight: lighter;
+}
+
 .example {
   font-style: italic;
   font-size: 14px;
